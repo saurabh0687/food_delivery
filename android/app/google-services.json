@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "286208380763",
+    "project_id": "swad-the-delivery-app",
+    "storage_bucket": "swad-the-delivery-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:286208380763:android:79ae04cd4c0f63de87147e",
+        "android_client_info": {
+          "package_name": "com.example.food_delivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "286208380763-1c3polhpceb73vrsqrvugrc9eohtdcej.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBowW5y5Z6vaFhQnajhQUUsVbKh3UL_Uzk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "286208380763-1c3polhpceb73vrsqrvugrc9eohtdcej.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
